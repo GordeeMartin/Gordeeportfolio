@@ -106,7 +106,7 @@ label {
 
 /* Style form input fields */
 input[type=text], select {
-  width: 40%;
+  width: 20%;
   padding: 6px 6px;
   margin: 8px 0;
   display: inline-block;
