@@ -2,6 +2,8 @@ body {
     background-image: url("https://ik.imagekit.io/gbmeyjntiq/Martin.jpg?updatedAt=1678365214136");
 	background-repeat: no-repeat;
 	background-size: cover;
+	font-family: forte;
+        color: yellow;
 }
 
 header {
