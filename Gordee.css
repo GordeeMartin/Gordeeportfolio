@@ -1,8 +1,7 @@
 body {
-    background-color: aquamarine;
-    background-repeat: no-repeat;
-    background-size: cover;
-    min-height: 100%;
+    background-image: url("https://ik.imagekit.io/gbmeyjntiq/martin.jpg?updatedAt=1680508632890");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 header {
