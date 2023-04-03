@@ -139,6 +139,13 @@ input[type=submit]:hover {
   margin: 0 auto;
 }
 
+img {
+  border: 1px solid #ccc;
+  box-shadow: 2px 2px 2px #ccc;
+  filter: grayscale(50%);
+}
+
+
 
 .container {
     text-align: center;
