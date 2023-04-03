@@ -104,6 +104,16 @@
     <div class="container">
         <image src="https://ik.imagekit.io/gbmeyjntiq/20220305214132_IMG_0350.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1678365414885" alt="Gordee" width="150" height="225"></image>
     </div>
+	<form action="sendmail.php" method="post">
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name" required>
+  <label for="email">Email:</label>
+  <input type="email" id="email" name="email" required>
+  <label for="message">Message:</label>
+  <textarea id="message" name="message" required></textarea>
+  <input type="submit" value="Submit">
+</form>
+
     <footer>
         <p>Copyright © Gordee 2023</p>
     </footer>
